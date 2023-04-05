@@ -1,0 +1,15 @@
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.csproj.AssemblyReference.cache
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.AssemblyInfoInputs.cache
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.AssemblyInfo.cs
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\pspicoli\Desktop\MySuperBank\bin\Debug\net7.0\MySuperBank.exe
+C:\Users\pspicoli\Desktop\MySuperBank\bin\Debug\net7.0\MySuperBank.deps.json
+C:\Users\pspicoli\Desktop\MySuperBank\bin\Debug\net7.0\MySuperBank.runtimeconfig.json
+C:\Users\pspicoli\Desktop\MySuperBank\bin\Debug\net7.0\MySuperBank.dll
+C:\Users\pspicoli\Desktop\MySuperBank\bin\Debug\net7.0\MySuperBank.pdb
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.dll
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\refint\MySuperBank.dll
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.pdb
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\MySuperBank.genruntimeconfig.cache
+C:\Users\pspicoli\Desktop\MySuperBank\obj\Debug\net7.0\ref\MySuperBank.dll
