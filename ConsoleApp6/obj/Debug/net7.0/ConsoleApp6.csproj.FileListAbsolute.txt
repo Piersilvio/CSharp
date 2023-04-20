@@ -1,0 +1,15 @@
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.exe
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.deps.json
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.runtimeconfig.json
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.dll
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.dll
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\refint\ConsoleApp6.dll
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\pspicoli\Desktop\refactorAmari\ConsoleApp6\obj\Debug\net7.0\ref\ConsoleApp6.dll
