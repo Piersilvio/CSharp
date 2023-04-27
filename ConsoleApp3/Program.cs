@@ -1,42 +1,41 @@
-﻿using static ConsoleApp3.Logger;
-
-namespace ConsoleApp3
+﻿namespace ConsoleApp3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Definizione del primo delegate
-            var writer = new FileLogWriter(@"c:\somefile.txt");
-            var fileDelegate = new StringLogWriter(writer.Write);
+            int res = 0;
 
-            // Definizione del secondo delegate
-            var consoleDelegate = new StringLogWriter(ConsoleWriter);
+            try
+            {
+                res = Division(5, 0);
+                Console.WriteLine(res);
 
-            // Combinazione dei delegate
-            StringLogWriter combinedDelegate = (StringLogWriter)Delegate.Combine(consoleDelegate, fileDelegate);
-            var myLogger = new Logger(combinedDelegate);
-
-            // Scrive sulla console e su file il messaggio in basso
-            myLogger.Log("Messaggio di esempio");
+            }catch(DivideByZeroException ex)
+            {
+                /*
+                 * nel caso in cui il CLR trova in stack
+                 * il blocco catch che può risolvere l'eccezione
+                 * (ossia quel catch che ha lo stesso tipo di exception)
+                 * allora lo risolve!
+                 */
+                Console.WriteLine("Attempted divide by zero."); //stamperà il messaggio
+            }
         }
 
-        private static void ConsoleWriter(DateTime timestamp, string message)
-        {
-            Console.WriteLine("{0} - {1}", timestamp, message);
-        }
-    }
-
-    public class FileLogWriter
-    {
-        public string FileName { get; set; }
-        public FileLogWriter(string filename)
-        {
-            this.FileName = filename;
-        }
-        public void Write(DateTime timestamp, string message)
-        {
-            // Scrittura messaggio su file...
+        public static int Division(int x, int y) {  
+            
+            if(y == 0)
+            {
+                /*
+                 * se y = 0 => faccio sollevare l'eccezione e
+                 *             lo faccio gestire all'interno del 
+                 *             main() (che non è altro che il metodo chiamante!!)          
+                 */
+                throw new DivideByZeroException(); 
+            }
+            
+            return x / y; 
         }
     }
 }
