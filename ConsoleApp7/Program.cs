@@ -38,6 +38,15 @@
             {
                 Console.WriteLine(x);
             }
+            
+            //------------------- con l'uso di lambda exp ------------------------
+
+            var q1 = list.Where(x => x > 50).ToList();
+            q1.Sort();
+            foreach(int x in q1)
+            {
+                Console.WriteLine(x);
+            }
         }
     }
 }
