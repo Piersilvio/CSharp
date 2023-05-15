@@ -6,21 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    public class Logger
+    internal class Class1
     {
-        public delegate void StringLogWriter(DateTime timestamp, string message);
+        public Class1() { }
 
-        private StringLogWriter writer;
-
-        public Logger(StringLogWriter writer)
-        {
-            this.writer = writer;
-        }
- 
-        public void Log(string message)
-        {
-            if (this.writer != null)
-                this.writer(DateTime.Now, message);
-        }
+        public string getGreeting() { return "ciao pier, vengo eseguito da t!"; }
     }
 }
