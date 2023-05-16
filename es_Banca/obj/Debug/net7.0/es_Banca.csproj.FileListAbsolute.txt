@@ -1,0 +1,15 @@
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\bin\Debug\net7.0\es_Banca.exe
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\bin\Debug\net7.0\es_Banca.deps.json
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\bin\Debug\net7.0\es_Banca.runtimeconfig.json
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\bin\Debug\net7.0\es_Banca.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\bin\Debug\net7.0\es_Banca.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.csproj.AssemblyReference.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.AssemblyInfoInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.AssemblyInfo.cs
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.csproj.CoreCompileInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\refint\es_Banca.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\es_Banca.genruntimeconfig.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_Banca\obj\Debug\net7.0\ref\es_Banca.dll
