@@ -1,0 +1,15 @@
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.csproj.AssemblyReference.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.AssemblyInfoInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.AssemblyInfo.cs
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.csproj.CoreCompileInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\bin\Debug\net7.0\es_studente.exe
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\bin\Debug\net7.0\es_studente.deps.json
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\bin\Debug\net7.0\es_studente.runtimeconfig.json
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\bin\Debug\net7.0\es_studente.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\bin\Debug\net7.0\es_studente.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\refint\es_studente.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\es_studente.genruntimeconfig.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_studente\obj\Debug\net7.0\ref\es_studente.dll
