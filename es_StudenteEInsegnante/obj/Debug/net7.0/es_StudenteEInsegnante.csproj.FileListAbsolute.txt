@@ -1,0 +1,15 @@
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\bin\Debug\net7.0\es_StudenteEInsegnante.exe
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\bin\Debug\net7.0\es_StudenteEInsegnante.deps.json
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\bin\Debug\net7.0\es_StudenteEInsegnante.runtimeconfig.json
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\bin\Debug\net7.0\es_StudenteEInsegnante.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\bin\Debug\net7.0\es_StudenteEInsegnante.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.csproj.AssemblyReference.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.AssemblyInfoInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.AssemblyInfo.cs
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.csproj.CoreCompileInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\refint\es_StudenteEInsegnante.dll
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\es_StudenteEInsegnante.genruntimeconfig.cache
+C:\Users\pspicoli\Desktop\refactorAmari\es_StudenteEInsegnante\obj\Debug\net7.0\ref\es_StudenteEInsegnante.dll
