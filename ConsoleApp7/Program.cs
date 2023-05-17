@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp7
+﻿using System.Collections.Immutable;
+
+namespace ConsoleApp7
 {
     internal class Program
     {
@@ -38,7 +40,7 @@
             {
                 Console.WriteLine(x);
             }
-            
+
             //------------------- con l'uso di lambda exp ------------------------
 
             var q1 = list.Where(x => x > 50).ToList();
