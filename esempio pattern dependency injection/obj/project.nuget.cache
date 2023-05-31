@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SjDj/E1eFKVX1KtoOOIWTetS1KSGeJzepT+brM56102r3oySYU0pw4x5wwHPHtvxCSNh2rRsM5kjPMDRcI+OMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pspicoli\\Desktop\\refactorAmari\\esempio pattern dependency injection\\esempio pattern dependency injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pspicoli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pspicoli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pspicoli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pspicoli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

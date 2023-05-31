@@ -1,0 +1,15 @@
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\bin\Debug\net6.0\esempio pattern dependency injection.exe
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\bin\Debug\net6.0\esempio pattern dependency injection.deps.json
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\bin\Debug\net6.0\esempio pattern dependency injection.runtimeconfig.json
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\bin\Debug\net6.0\esempio pattern dependency injection.dll
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\bin\Debug\net6.0\esempio pattern dependency injection.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.csproj.AssemblyReference.cache
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.AssemblyInfoInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.AssemblyInfo.cs
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.csproj.CoreCompileInputs.cache
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.dll
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\refint\esempio pattern dependency injection.dll
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.pdb
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\esempio pattern dependency injection.genruntimeconfig.cache
+C:\Users\pspicoli\Desktop\refactorAmari\esempio pattern dependency injection\obj\Debug\net6.0\ref\esempio pattern dependency injection.dll
